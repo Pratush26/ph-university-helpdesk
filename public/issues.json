@@ -144,18 +144,6 @@
     "userImg": "https://images.unsplash.com/photo-1580489944761-15a19d654956?q=80&w=2861&auto=format&fit=crop"
   },
   {
-    "ticketId": "PH-2013",
-    "subject": "Payment failed",
-    "description": "User's credit card was declined during subscription renewal.",
-    "status": "Submitted",
-    "priority": "High",
-    "category": "Billing",
-    "createdAt": "2025-09-12T20:05:00Z",
-    "assignedTo": "Agent002",
-    "requestedBy": "Henry Wilson",
-    "userImg": "https://images.unsplash.com/photo-1547425260-76bc4c4006ae?q=80&w=2940&auto=format&fit=crop"
-  },
-  {
     "ticketId": "PH-2014",
     "subject": "Mobile app not syncing data",
     "description": "Data updated on the web platform is not reflecting on the iOS app.",

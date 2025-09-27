@@ -18,7 +18,7 @@ export default function TicketCard({ e, setDataList, dataList }) {
         <button onClick={() => handleClick(e)} className="flex flex-col items-center justify-center gap-3 w-full bg-white p-6 rounded shadow-lg/60 shadow-gray-400">
             <div className="flex items-center justify-between gap-2 font-medium text-sm w-full">
                 <span className="flex items-center gap-2">
-                    <img src={e.userImg} alt="user" className="h-20 aspect-square object-top object-cover rounded-full" />
+                    <img src={e.userImg} alt="user" loading="lazy" className="h-20 aspect-square object-top object-cover rounded-full" />
                     <p>{e.requestedBy}</p>
                 </span>
                 <span className="space-y-1">
